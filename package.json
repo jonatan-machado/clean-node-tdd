@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:staged":"jest"
+    "test:staged": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^26.0.16",
+    "@types/jest": "^26.0.23",
     "@types/node": "^14.14.10",
     "@typescript-eslint/eslint-plugin": "^4.9.0",
     "@typescript-eslint/parser": "^4.9.0",
